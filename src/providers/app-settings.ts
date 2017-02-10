@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 
 const CONFIG = {
-  apiUrl: 'http://localhost:3001/'
+  apiUrl: 'https://mighty-woodland-68486.herokuapp.com/'
 };
 
 @Injectable()
